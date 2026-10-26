@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="index.js">
-      <Filter>Source Files</Filter>
-    </None>
     <None Include=".env">
       <Filter>Source Files</Filter>
     </None>
@@ -28,6 +25,9 @@
       <Filter>Source Files</Filter>
     </None>
     <None Include="styles.css">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="index.js">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
